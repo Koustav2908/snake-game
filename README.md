@@ -13,5 +13,6 @@ The game ends when the snake collides with the walls or its own tail.
 ## How to Play
 - Clone or download the repository.
 - Ensure you have Python installed on your system.
+- Run the following script to start the game: `python main.py`
 
 Enjoy the game and happy coding!
